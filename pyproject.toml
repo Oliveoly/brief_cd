@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "defusedxml>=0.7.1",
     "dotenv>=0.9.9",
     "fastapi>=0.135.1",
     "genbadge>=1.1.3",
