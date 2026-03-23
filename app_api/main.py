@@ -1,5 +1,5 @@
 # backend/main.py
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI
 import uvicorn
 import os 
 import pandas as pd
